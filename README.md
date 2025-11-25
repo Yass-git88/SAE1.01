@@ -1,4 +1,4 @@
-SAÉ 1.01 – Jeu de plateforme : Évasion du labyrinthe
+SAÉ 1.01 – Jeu de plateforme : Évasion du labyrinthe 
 🎮 Description du projet
 
 Ce projet universitaire consiste à programmer un jeu de plateforme dans lequel le joueur contrôle un personnage devant s’échapper d’un labyrinthe.
